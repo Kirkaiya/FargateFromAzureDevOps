@@ -1,6 +1,6 @@
 # FargateFromAzureDevOps
 
-**This is a simple ASP.NET Core (3.1) MVC app with Dockerfile for using in an Azure DevOps pipeline to build and deploy to AWS Fargate (a serverless container service)**
+**This is a simple ASP.NET Core (.NET 6) MVC app with Dockerfile for using in an Azure DevOps pipeline to build and deploy to AWS Fargate (a serverless container service)**
 
 ## I. Create an Azure DevOps Project and add sample ASP.NET solution
 
